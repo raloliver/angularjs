@@ -1,6 +1,7 @@
     <!doctype html>
     <html ng-app>
     <head>
+     <meta charset="utf-8">
     <title>AngularJS - Controllers</title>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular.min.js"></script>
     </head>
